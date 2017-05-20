@@ -1,0 +1,13 @@
+.panel-item {
+  text-align: center;
+  font-size: 90px;
+  border-radius: 5px;
+  padding-bottom: 0;
+}
+
+.panel-item p {
+  font-size: 20px;
+  text-align: center;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInJlc291cmNlcy9hc3NldHMvc2Fzcy9zdHlsZXMuc2NzcyJdLCJzb3VyY2VzQ29udGVudCI6WyIucGFuZWwtaXRlbXtcbiAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xuXHRcdGZvbnQtc2l6ZTogOTBweDtcbiAgICAgICAgYm9yZGVyLXJhZGl1czogNXB4O1xuICAgICAgICBwYWRkaW5nLWJvdHRvbTogMDtcbiAgICAgICAgcHtcbiAgICAgICAgXHRmb250LXNpemU6IDIwcHg7XG4gICAgICAgIFx0dGV4dC1hbGlnbjogY2VudGVyO1xuICAgICAgICB9XG5cbiAgICB9Il0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLEFBQUEsV0FBVyxDQUFBO0VBQ0gsVUFBVSxFQUFFLE1BQU07RUFDeEIsU0FBUyxFQUFFLElBQUk7RUFDVCxhQUFhLEVBQUUsR0FBRztFQUNsQixjQUFjLEVBQUUsQ0FBQztDQU1wQjs7QUFWTCxBQUtRLFdBTEcsQ0FLSCxDQUFDLENBQUE7RUFDQSxTQUFTLEVBQUUsSUFBSTtFQUNmLFVBQVUsRUFBRSxNQUFNO0NBQ2xCIn0= */
